@@ -1,0 +1,33 @@
+.box{
+    width: 450px;
+    background: rgba(46, 139, 86, 0.692);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+    margin-top: 20px;
+    }
+#nama{
+    color:lightcyan;
+}
+.p{
+    text-align: center;
+    color:rgb(233, 209, 177);
+}
+.a{
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 30px;
+}
+.a:hover{
+    background-color:lightcyan;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+.b{
+    text-align: center;
+    background-image: linear-gradient(rgba(211,204,227,0.5), rgba(233,228,240,0.5)),url(contact.jpg);
+    background-attachment: fixed;
+}
